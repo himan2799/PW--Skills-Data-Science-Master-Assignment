@@ -1,2 +1,2 @@
-# PW--Skills-Data-Science-Master-Assignment
-PW- Skills Data Science Master Assignment Solution
+# PWSkills-Data-Science-Master-Assignment
+PWSkills Data Science Master Assignment Solution
